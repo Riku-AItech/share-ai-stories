@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@radix-ui/react-switch": "^1.1.2",
+    "date-fns": "^4.1.0",
+    "tailwindcss-animate": "^1.0.7",
+    "vite": "^6.0.7"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  }
+}
